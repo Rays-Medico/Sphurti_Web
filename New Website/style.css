@@ -2,11 +2,11 @@
     background-color: #88B04B ;
 }
 
-.title {
+.title, .cards-intro, .ai_docs, .game_intro {
     background-color: #FFF8E1;
 }
 
-.why_us {
+.why_us, .cards, .model_cards, .gamez {
     background-color: #FAFAFA;
 }
 
@@ -198,4 +198,21 @@ font-style: italic;
 font-family: "Merriweather", serif;
 font-weight: 900;
 font-style: italic;
+}
+
+.card-cover {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+a {
+    color: #0060B6;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#00A0C6; 
+    text-decoration:none; 
+    cursor:pointer;  
 }
