@@ -1,0 +1,218 @@
+.header, .footer {
+    background-color: #88B04B ;
+}
+
+.title, .cards-intro, .ai_docs, .game_intro {
+    background-color: #FFF8E1;
+}
+
+.why_us, .cards, .model_cards, .gamez {
+    background-color: #FAFAFA;
+}
+
+.mian {
+    border-radius: 25px;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .75rem;
+}
+
+.roboto-thin {
+    font-family: "Roboto", serif;
+    font-weight: 100;
+    font-style: normal;
+}
+  
+.roboto-light {
+font-family: "Roboto", serif;
+font-weight: 300;
+font-style: normal;
+}
+
+.roboto-regular {
+font-family: "Roboto", serif;
+font-weight: 400;
+font-style: normal;
+}
+
+.roboto-medium {
+font-family: "Roboto", serif;
+font-weight: 500;
+font-style: normal;
+}
+
+.roboto-bold {
+font-family: "Roboto", serif;
+font-weight: 700;
+font-style: normal;
+}
+
+.roboto-black {
+font-family: "Roboto", serif;
+font-weight: 900;
+font-style: normal;
+}
+
+.roboto-thin-italic {
+font-family: "Roboto", serif;
+font-weight: 100;
+font-style: italic;
+}
+
+.roboto-light-italic {
+font-family: "Roboto", serif;
+font-weight: 300;
+font-style: italic;
+}
+
+.roboto-regular-italic {
+font-family: "Roboto", serif;
+font-weight: 400;
+font-style: italic;
+}
+
+.roboto-medium-italic {
+font-family: "Roboto", serif;
+font-weight: 500;
+font-style: italic;
+}
+
+.roboto-bold-italic {
+font-family: "Roboto", serif;
+font-weight: 700;
+font-style: italic;
+}
+
+.roboto-black-italic {
+font-family: "Roboto", serif;
+font-weight: 900;
+font-style: italic;
+}
+
+.lato-thin {
+    font-family: "Lato", serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.lato-light {
+font-family: "Lato", serif;
+font-weight: 300;
+font-style: normal;
+}
+
+.lato-regular {
+font-family: "Lato", serif;
+font-weight: 400;
+font-style: normal;
+}
+
+.lato-bold {
+font-family: "Lato", serif;
+font-weight: 700;
+font-style: normal;
+}
+
+.lato-black {
+font-family: "Lato", serif;
+font-weight: 900;
+font-style: normal;
+}
+
+.lato-thin-italic {
+font-family: "Lato", serif;
+font-weight: 100;
+font-style: italic;
+}
+
+.lato-light-italic {
+font-family: "Lato", serif;
+font-weight: 300;
+font-style: italic;
+}
+
+.lato-regular-italic {
+font-family: "Lato", serif;
+font-weight: 400;
+font-style: italic;
+}
+
+.lato-bold-italic {
+font-family: "Lato", serif;
+font-weight: 700;
+font-style: italic;
+}
+
+.lato-black-italic {
+font-family: "Lato", serif;
+font-weight: 900;
+font-style: italic;
+}
+
+.merriweather-light {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.merriweather-regular {
+font-family: "Merriweather", serif;
+font-weight: 400;
+font-style: normal;
+}
+
+.merriweather-bold {
+font-family: "Merriweather", serif;
+font-weight: 700;
+font-style: normal;
+}
+
+.merriweather-black {
+font-family: "Merriweather", serif;
+font-weight: 900;
+font-style: normal;
+}
+
+.merriweather-light-italic {
+font-family: "Merriweather", serif;
+font-weight: 300;
+font-style: italic;
+}
+
+.merriweather-regular-italic {
+font-family: "Merriweather", serif;
+font-weight: 400;
+font-style: italic;
+}
+
+.merriweather-bold-italic {
+font-family: "Merriweather", serif;
+font-weight: 700;
+font-style: italic;
+}
+
+.merriweather-black-italic {
+font-family: "Merriweather", serif;
+font-weight: 900;
+font-style: italic;
+}
+
+.card-cover {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+a {
+    color: #0060B6;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#00A0C6; 
+    text-decoration:none; 
+    cursor:pointer;  
+}
